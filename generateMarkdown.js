@@ -72,7 +72,7 @@
   ​
   ## Questions
   ​
-  <img src="${}" alt="avatar" style="border-radius: 16px" width="30" />
+  <img src="${picture.jpg}" alt="avatar" style="border-radius: 16px" width="30" />
   ​
   If you have any questions about the repo, open an issue or contact [${data.github}](${data.url}) directly at ${data.email}.
   ​
